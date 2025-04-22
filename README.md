@@ -16,7 +16,7 @@ The `RobotController` class provides functionality to:
 - Python 3.6+
 - pyniryo package
 
-## Installation
+## Installation process 
 
 1. Install the required dependencies:
 ```bash
